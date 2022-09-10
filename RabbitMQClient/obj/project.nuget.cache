@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoO9dl6SPRDY4ZsWRfa87T6xx9Jd2w5vNlrB9YasMzj6mSQd9XDVDWsOCn3YeSaAbM9mud6mr84PjtaoPQ11qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELMOHIT\\source\\repos\\RabbitApp\\RabbitMQClient\\RabbitMQClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

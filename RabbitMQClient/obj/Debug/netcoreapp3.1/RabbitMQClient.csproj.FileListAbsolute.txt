@@ -1,0 +1,15 @@
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.exe
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.csprojAssemblyReference.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.AssemblyInfoInputs.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.AssemblyInfo.cs
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.deps.json
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.runtimeconfig.json
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.runtimeconfig.dev.json
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQClient.pdb
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.csproj.CopyComplete
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.pdb
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitMQClient\obj\Debug\netcoreapp3.1\RabbitMQClient.genruntimeconfig.cache
