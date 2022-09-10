@@ -1,0 +1,9 @@
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\bin\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.deps.json
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\bin\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.csprojAssemblyReference.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.AssemblyInfo.cs
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\bin\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.pdb
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\Core\obj\Debug\netcoreapp3.1\RabbitAppSolution.Domain.Core.pdb

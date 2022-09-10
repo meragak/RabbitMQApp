@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QyDR5j8AoOe/Am6wY7byLmbkxheLlzFzBzDIrjXzUDX4LPwL+Hp0+CjzK4ZFHJRs5KnZujCdedEKtelI5im8rg==",
+  "dgSpecHash": "mOiumY7kt/hRLt0rH0RjpoVTavP9QL2jx683TlRT2DUHTXAF+l03J51NVvcPQ3hQiW1FioJjJZ0im/25vuHvlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELMOHIT\\source\\repos\\RabbitApp\\Core\\RabbitAppSolution.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
