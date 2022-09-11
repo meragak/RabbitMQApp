@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+aJCJvm6AimGzt+iPOORfM5ftAyd8qxOqGJHInj7XdGkr9QZ+nd7RFFAThOxdz/4Z/a4iglJ0mRZ4+qaX0wVJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELMOHIT\\source\\repos\\RabbitApp\\RabbitApp.Infra.Bus\\RabbitAppSolution.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
