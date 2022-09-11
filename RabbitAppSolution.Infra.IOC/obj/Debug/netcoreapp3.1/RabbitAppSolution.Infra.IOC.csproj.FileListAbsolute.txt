@@ -1,0 +1,5 @@
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitAppSolution.Infra.IOC\bin\Debug\netcoreapp3.1\RabbitAppSolution.Infra.IOC.deps.json
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitAppSolution.Infra.IOC\bin\Debug\netcoreapp3.1\RabbitAppSolution.Infra.IOC.dll
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitAppSolution.Infra.IOC\obj\Debug\netcoreapp3.1\RabbitAppSolution.Infra.IOC.csprojAssemblyReference.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitAppSolution.Infra.IOC\obj\Debug\netcoreapp3.1\RabbitAppSolution.Infra.IOC.AssemblyInfoInputs.cache
+C:\Users\ELMOHIT\source\repos\RabbitApp\RabbitAppSolution.Infra.IOC\obj\Debug\netcoreapp3.1\RabbitAppSolution.Infra.IOC.AssemblyInfo.cs
