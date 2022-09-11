@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iN46dmPGMt/2uWDudkSdntJcjhg8ZoN88P/ymwwFXXA4bgrBNW5EAeQvCKjdHlL0rQo4NWxpPoatNfzgN+N0QQ==",
+  "dgSpecHash": "m0DJvB2tlgfzlkzy8P2C2A92pkpnwY65jhrnLOJgijcK/jOzemSSAawYETwaSCwcr0bhMBIUYCYavfprLYTwlA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ELMOHIT\\source\\repos\\RabbitApp\\RabbitAppSolution.Infra.IOC\\RabbitAppSolution.Infra.IOC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\ELMOHIT\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.2.0\\microsoft.extensions.dependencyinjection.2.2.0.nupkg.sha512",
-    "C:\\Users\\ELMOHIT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ELMOHIT\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
   ],
   "logs": []
 }
